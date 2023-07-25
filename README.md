@@ -6,7 +6,7 @@ Installing addons is not always easy, you followed instructions by the book, rea
 ## Series
 Here a collection of our series for which you can find preinstalled content.
 ### BedrockBridge
-BedrockBridge is an addon for Bedrock Dedicated Servers (warning: Realms are not supported for now) that connects minecraft servers to their discord and allows to manage them: read and write chat, send commands, ban, kick, mute...
+[BedrockBridge](https://github.com/InnateAlpaca/BedrockBridge) is an addon for Bedrock Dedicated Servers (warning: Realms are not supported for now) that connects minecraft servers to their discord and allows to manage them: read and write chat, send commands, ban, kick, mute...
 ### Esploratori One
 *EsploratoriOne* is a series of compact script addons implementing a single feature for Minecraft Bedrock Edition. The addons are designed to be lightweight and easy to use, and they can be installed and uninstalled quickly. EsploratoriOne is a great way to add new functionality to Minecraft Bedrock without having to learn how to code.
 
